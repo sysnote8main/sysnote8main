@@ -1,2 +1,5 @@
 ## Organizations
-- <Under construction>
+- GTModpackTeam (dev of Gregtech Expert modpack series)
+
+## Languages
+- Nothing
